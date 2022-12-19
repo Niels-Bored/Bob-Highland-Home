@@ -1,6 +1,6 @@
 @font-face {
     font-family: notoserif;
-    src: url('NotoSerif-Bold.ttf') format('opentype');
+    src: url('NotoSerif-Regular.ttf') format('opentype');
 }
 body{
     margin:0;
