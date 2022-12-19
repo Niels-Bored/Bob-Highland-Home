@@ -1,6 +1,6 @@
 @font-face {
     font-family: notoserif;
-    src: url('./Fonts/NotoSerif-Regular.ttf') format('opentype');
+    src: url('../Fonts/NotoSerif-Regular.ttf') format('opentype');
 }
 body{
     margin:0;
@@ -20,7 +20,7 @@ svg{
 header{
     width: 100%;
     height: 400px;
-    background-image: url('./Images/1671299957389.jpg');
+    background-image: url('../Images/1671299957389.jpg');
     background-position: center;
     display: flex;
     flex-direction: column;
@@ -88,7 +88,7 @@ header{
 
 .description-section{
     width: 100%;
-    background-image: url("./Images/1668192466892.jpg");
+    background-image: url("../Images/1668192466892.jpg");
     background-position: left;
     padding-left: 120px;
     box-sizing: border-box;
